@@ -1,7 +1,7 @@
-# Purchasing Real Estate
+# Purchasing International Real Estate
 
 The project provides an overview of purchasing real estate
 
 ![image](PurchasingInternationalRealEstate.jpg)
 
-Additional details reference 
+Additional details reference https://github.com/alpaddesai/LifeStyle
