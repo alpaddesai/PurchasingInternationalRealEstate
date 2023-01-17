@@ -1,4 +1,4 @@
-# Purchasing International Real Estate
+# Purchasing International Residential Real Estate
 
 The project provides an overview of purchasing real estate
 
