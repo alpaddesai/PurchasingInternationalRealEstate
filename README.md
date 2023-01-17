@@ -1,6 +1,6 @@
 # Purchasing International Residential Real Estate
 
-The project provides an overview of purchasing real estate
+The project provides an overview of purchasing international residential real estate
 
 ![image](PurchasingInternationalRealEstate.jpg)
 
